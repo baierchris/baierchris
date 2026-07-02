@@ -9,11 +9,11 @@
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=80&section=header&text=Sobre&fontSize=25&fontColor=ffffff&fontAlignY=55)
 
-·🔭 Hoje ainda não trabalho na TI, mas busco uma oportunidade.
+·  Hoje ainda não trabalho na TI, mas busco uma oportunidade.
   
-·🌱 Estou aprendendo Engenharia de Software.
+·  Estou aprendendo Engenharia de Software.
  
-·😄 Pronouns: he/him
+·  Área que busco atuar: Back End e/ou Dados
 
 
 ## Linguagens
