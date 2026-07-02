@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/Christian-Baier">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Christian-Baier&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Baier&layout=compact&langs_count=6&theme=dark&hide_border=true&cache_seconds=86400"/>
+  <img height="160em" src="https://github-readme-stats-bice-five-54.vercel.app/api?username=Christian-Baier&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-bice-five-54.vercel.app/api/top-langs/?username=Christian-Baier&layout=compact&langs_count=6&theme=dark&hide_border=true"/>
   </a>
 </div>
 
